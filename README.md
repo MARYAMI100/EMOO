@@ -16,8 +16,7 @@ Heart diseases are a leading cause of mortality, and machine learning can aid in
 - `SVM_NSGAII_AdaBoost.py` - Hyperparameter optimization for SVM using NSGA-II and AdaBoost.
 - `MLP_NSGAII_AdaBoost.py` - Hyperparameter optimization for MLP using NSGA-II and AdaBoost.
 - `RF_NSGAII_AdaBoost.py` - Hyperparameter optimization for Random Forest using NSGA-II and AdaBoost.
-- `Elservier_MOOP.pdf` - Research paper detailing the methodology and experimental results.
-
+  
 ## **Installation**
 ### **Requirements**
 Ensure you have Python 3.8+ installed. Install the required dependencies using:
